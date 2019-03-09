@@ -1,0 +1,182 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml:2:1-36:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/9a640b9601f996a0a688350fe3020585/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d2abf94aaf97cbb53efa4bdecb4b56f4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/9bda832764bef783812abe29ce3a85e2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/c0eed3cf61770b85dc7e4d622ed5d995/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/6150701e65fd3dc37dcef3de23ef36af/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/c2ad62c40171bb1e049e6622c250613e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/fb978ee3cab62ac3baae36ea34e700df/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/8ab79c270a3bab342b74a2f18c9442b5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/860d448bfac042a2f5fa33635140a35e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/96ef5ab6ab877caa3ef67979a55cb10c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/ae93059cdae01ce68380bda087e41166/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/11c7c5d30aac4753cd41c80e2cddcda5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/c7e29db4b96c0d03d07f64f079ef34ca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/bc2a8abe08ad7a74d8e073e654acf2e4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/ba1d657cd139b0a44a5ee3516d527527/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8c4bf499add39cb9696a3ab9a7d0aac2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/c1071f776a8c1fa21e1fcedccbfbc7e6/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/d6f95693f7285dd562da38bbeda697e0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0e1334d29a58821671a7f78cf57e2bd5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/a60b0f627b84c0577d4837c9e9fe71ec/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/8feb8e7c84335c81e9da466e78f31e34/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/4e5920075f9002ac48123560b76e992b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/5b94bd65c06d551823df56a9d87c5841/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f1c8b2ba38b6283e85d0bfa034b9b074/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/9dfdd32510c8e3e4c2de74a132743dce/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6a4c6fc000ede7be15fef0ea4efa3f29/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/acbb53a606c2552b22bd094d9eeb12c1/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml
+		ADDED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml:2:1-36:12
+		INJECTED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml
+		ADDED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml:2:1-36:12
+		INJECTED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.wifi.direct
+ADDED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml:5:19-62
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml:7:5-9:67
+	android:required
+		ADDED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml:8:9-32
+	android:name
+		ADDED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml:9:9-65
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml:10:5-12:62
+	android:required
+		ADDED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml:11:9-32
+	android:name
+		ADDED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml:12:9-60
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml:13:5-15:62
+	android:required
+		ADDED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml:14:9-32
+	android:name
+		ADDED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml:15:9-60
+uses-permission#android.permission.INTERNET
+ADDED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml:16:5-18:53
+	android:required
+		ADDED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml:17:9-32
+	android:name
+		ADDED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml:18:9-51
+application
+ADDED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml:20:5-34:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d2abf94aaf97cbb53efa4bdecb4b56f4/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d2abf94aaf97cbb53efa4bdecb4b56f4/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8c4bf499add39cb9696a3ab9a7d0aac2/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8c4bf499add39cb9696a3ab9a7d0aac2/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/c1071f776a8c1fa21e1fcedccbfbc7e6/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/c1071f776a8c1fa21e1fcedccbfbc7e6/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8c4bf499add39cb9696a3ab9a7d0aac2/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml:25:9-35
+	android:label
+		ADDED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml:23:9-41
+	android:roundIcon
+		ADDED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml:24:9-54
+	android:icon
+		ADDED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml:26:9-40
+activity#com.example.group_play.MainActivity
+ADDED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml:27:9-33:20
+	android:name
+		ADDED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml:27:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml:31:27-74
+uses-sdk
+INJECTED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml
+INJECTED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/9a640b9601f996a0a688350fe3020585/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/9a640b9601f996a0a688350fe3020585/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d2abf94aaf97cbb53efa4bdecb4b56f4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d2abf94aaf97cbb53efa4bdecb4b56f4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/9bda832764bef783812abe29ce3a85e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/9bda832764bef783812abe29ce3a85e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/c0eed3cf61770b85dc7e4d622ed5d995/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/c0eed3cf61770b85dc7e4d622ed5d995/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/6150701e65fd3dc37dcef3de23ef36af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/6150701e65fd3dc37dcef3de23ef36af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/c2ad62c40171bb1e049e6622c250613e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/c2ad62c40171bb1e049e6622c250613e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/fb978ee3cab62ac3baae36ea34e700df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/fb978ee3cab62ac3baae36ea34e700df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/8ab79c270a3bab342b74a2f18c9442b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/8ab79c270a3bab342b74a2f18c9442b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/860d448bfac042a2f5fa33635140a35e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/860d448bfac042a2f5fa33635140a35e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/96ef5ab6ab877caa3ef67979a55cb10c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/96ef5ab6ab877caa3ef67979a55cb10c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/ae93059cdae01ce68380bda087e41166/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/ae93059cdae01ce68380bda087e41166/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/11c7c5d30aac4753cd41c80e2cddcda5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/11c7c5d30aac4753cd41c80e2cddcda5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/c7e29db4b96c0d03d07f64f079ef34ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/c7e29db4b96c0d03d07f64f079ef34ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/bc2a8abe08ad7a74d8e073e654acf2e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/bc2a8abe08ad7a74d8e073e654acf2e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/ba1d657cd139b0a44a5ee3516d527527/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/ba1d657cd139b0a44a5ee3516d527527/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8c4bf499add39cb9696a3ab9a7d0aac2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8c4bf499add39cb9696a3ab9a7d0aac2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/c1071f776a8c1fa21e1fcedccbfbc7e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/c1071f776a8c1fa21e1fcedccbfbc7e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/d6f95693f7285dd562da38bbeda697e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/d6f95693f7285dd562da38bbeda697e0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0e1334d29a58821671a7f78cf57e2bd5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0e1334d29a58821671a7f78cf57e2bd5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/a60b0f627b84c0577d4837c9e9fe71ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/a60b0f627b84c0577d4837c9e9fe71ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/8feb8e7c84335c81e9da466e78f31e34/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/8feb8e7c84335c81e9da466e78f31e34/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/4e5920075f9002ac48123560b76e992b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/4e5920075f9002ac48123560b76e992b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/5b94bd65c06d551823df56a9d87c5841/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/5b94bd65c06d551823df56a9d87c5841/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f1c8b2ba38b6283e85d0bfa034b9b074/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f1c8b2ba38b6283e85d0bfa034b9b074/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/9dfdd32510c8e3e4c2de74a132743dce/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/9dfdd32510c8e3e4c2de74a132743dce/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6a4c6fc000ede7be15fef0ea4efa3f29/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6a4c6fc000ede7be15fef0ea4efa3f29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/acbb53a606c2552b22bd094d9eeb12c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/parshvabarbhaya/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/acbb53a606c2552b22bd094d9eeb12c1/AndroidManifest.xml:20:5-44
+INJECTED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml
+INJECTED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml
+		ADDED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml
+		ADDED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/parshvabarbhaya/AndroidStudioProjects/GroupPlay/app/src/main/AndroidManifest.xml
