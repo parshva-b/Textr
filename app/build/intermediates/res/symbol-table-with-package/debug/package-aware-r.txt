@@ -688,6 +688,7 @@ id chronometer
 id clip_horizontal
 id clip_vertical
 id collapseActionView
+id conStatus
 id content
 id contentPanel
 id custom
@@ -720,6 +721,7 @@ id italic
 id left
 id line1
 id line3
+id list
 id listMode
 id list_item
 id message
@@ -826,6 +828,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
+layout activity_wifi_p2p
 layout notification_action
 layout notification_action_tombstone
 layout notification_template_custom_big
@@ -838,6 +841,7 @@ layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 mipmap ic_launcher
 mipmap ic_launcher_round
+string WifiP2p
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description

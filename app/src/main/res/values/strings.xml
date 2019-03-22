@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Group-Play</string>
+    <string name="app_name">Group Play</string>
+    <string name="WifiP2p">Peers</string>
 </resources>
