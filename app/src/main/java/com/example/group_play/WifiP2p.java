@@ -19,14 +19,18 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import java.io.IOException;
 import java.net.InetAddress;
+import java.net.InetSocketAddress;
+import java.net.ServerSocket;
+import java.net.Socket;
 import java.util.ArrayList;
 import java.util.List;
 
 public class WifiP2p extends AppCompatActivity {
 
     ListView listView;
-    TextView conStatus;
+    TextView constatus;
 
     WifiManager wifiManager;
     WifiP2pManager manager;
@@ -98,7 +102,7 @@ public class WifiP2p extends AppCompatActivity {
 
     private void init() {
         listView =(ListView) findViewById(R.id.list);
-        conStatus =(TextView) findViewById(R.id.conStatus);
+        constatus = (TextView) findViewById(R.id.conStatus);
 
 
         wifiManager = (WifiManager) getApplicationContext().getSystemService(Context.WIFI_SERVICE);
@@ -154,10 +158,10 @@ public class WifiP2p extends AppCompatActivity {
             final InetAddress groupOwnerAddress = info.groupOwnerAddress;
 
             if(info.groupFormed && info.isGroupOwner) {
-                conStatus.setText("Host");
+                constatus.setText("Host");
             }
             else if(info.groupFormed) {
-                conStatus.setText("Client");
+                constatus.setText("Client");
             }
         }
     };
@@ -175,4 +179,41 @@ public class WifiP2p extends AppCompatActivity {
         unregisterReceiver(receiver);
     }
 
+    public class ServerClass extends Thread {
+        Socket socket;
+        ServerSocket serverSocket;
+
+        @Override
+        public void run() {
+            try {
+                serverSocket = new ServerSocket(8080);
+                socket=serverSocket.accept();
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+
+        }
+
+    }
+
+    public class ClientClass extends Thread {
+        Socket socket;
+        String hostAdd;
+
+        public ClientClass(InetAddress hostAddress) {
+            hostAdd = hostAddress.getHostAddress();
+            socket = new Socket();
+        }
+
+        @Override
+        public void run() {
+            try {
+                socket.connect(new InetSocketAddress(hostAdd, 8080),2000);
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+        }
+    }
+
 }
+

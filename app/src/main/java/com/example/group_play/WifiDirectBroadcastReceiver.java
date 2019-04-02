@@ -52,7 +52,7 @@ public class WifiDirectBroadcastReceiver extends BroadcastReceiver {
                 manager.requestConnectionInfo(channel,activity.connectionInfoListener);
             }
             else {
-                activity.conStatus.setText("Device Disconnected");
+                activity.constatus.setText("Device Disconnected");
             }
 
         } else if (WifiP2pManager.WIFI_P2P_THIS_DEVICE_CHANGED_ACTION.equals(action)) {

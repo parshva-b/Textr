@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:padding="5dp"
         android:layout_margin="5dp"
-        android:id="@+id/conStatus"/>
+        android:id="@+id/conStatus" />
 
     <ListView
         android:layout_width="match_parent"
