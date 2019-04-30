@@ -17,14 +17,14 @@ public class MainActivity extends AppCompatActivity {
 
     public void send(View view) {
         Intent intent = new Intent(this, WifiP2p.class);
-//        intent.putExtra("Wifimanager",1);
+        intent.putExtra("flag","1");
         startActivity(intent);
     }
 
     public void receive(View view) {
 
         Intent intent = new Intent(this, WifiP2p.class);
-//        intent.putExtra("Wifimanager",0);
+        intent.putExtra("flag","0");
         startActivity(intent);
     }
 }

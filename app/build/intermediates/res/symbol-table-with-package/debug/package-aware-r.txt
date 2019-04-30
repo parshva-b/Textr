@@ -740,6 +740,7 @@ id percent
 id progress_circular
 id progress_horizontal
 id radio
+id readMsg
 id right
 id right_icon
 id right_side
@@ -759,6 +760,7 @@ id search_src_text
 id search_voice_btn
 id select_dialog_listview
 id send
+id sendButton
 id shortcut
 id showCustom
 id showHome
@@ -794,6 +796,7 @@ id useLogo
 id withText
 id wrap
 id wrap_content
+id writeMsg
 integer abc_config_activityDefaultDur
 integer abc_config_activityShortDur
 integer cancel_button_image_alpha

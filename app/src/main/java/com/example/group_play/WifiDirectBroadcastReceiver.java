@@ -44,16 +44,13 @@ public class WifiDirectBroadcastReceiver extends BroadcastReceiver {
 
         } else if (WifiP2pManager.WIFI_P2P_CONNECTION_CHANGED_ACTION.equals(action)) {
 
-            if(manager!=null) { return; }
+            if(manager==null) { return; }
 
-            NetworkInfo networkInfo = intent.getParcelableExtra(WifiP2pManager.EXTRA_WIFI_STATE);
+            NetworkInfo networkInfo = intent.getParcelableExtra(WifiP2pManager.EXTRA_NETWORK_INFO);
 
-            if(networkInfo.isConnected()) {
-                manager.requestConnectionInfo(channel,activity.connectionInfoListener);
-            }
-            else {
-                activity.constatus.setText("Device Disconnected");
-            }
+            if(networkInfo.isConnected()) { manager.requestConnectionInfo(channel, activity.connectionInfoListener); }
+            else { Toast.makeText(activity,"Device Disconnected", Toast.LENGTH_SHORT).show(); }
+
 
         } else if (WifiP2pManager.WIFI_P2P_THIS_DEVICE_CHANGED_ACTION.equals(action)) {
 
