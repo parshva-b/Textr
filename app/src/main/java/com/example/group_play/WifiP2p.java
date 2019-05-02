@@ -150,7 +150,7 @@ public class WifiP2p extends AppCompatActivity {
         btnSend = (Button) findViewById(R.id.sendButton);
 
         String x;
-        if(flag.equals("0")) { x = "Reciever"; }
+        if(flag.equals("0")) { x = "Receiver"; }
         else {  x = "Sender";   }
 
         constatus.setText(x);
@@ -263,8 +263,8 @@ public class WifiP2p extends AppCompatActivity {
         public SendReceive(Socket skt) {
             socket = skt;
             try {
-                inputStream = skt.getInputStream();
-                outputStream = skt.getOutputStream();
+                inputStream = socket.getInputStream();
+                outputStream = socket.getOutputStream();
             } catch (IOException e) {
                 e.printStackTrace();
             }
